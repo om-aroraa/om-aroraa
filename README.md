@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Om Arora</h1>
 <h3 align="center">Crafting Digital Dreams, Line by Line</h3>
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/pVmh7HR0cA2xOlet1z" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/pudgypenguins-type-typing-chatting-pVmh7HR0cA2xOlet1z">via GIPHY</a></p>
-<img src = "https://pin.it/1unX2vtcU">
+
+<img src ="[https://pin.it/5GLq22EZw](https://in.pinterest.com/pin/906279124990299039/)">
 
 - 🌱 I’m currently learning **Python, NodeJS, React**
 
