@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Om Arora</h1>
 <h3 align="center">Crafting Digital Dreams, Line by Line</h3>
 
-<img src ="[https://pin.it/5GLq22EZw](https://in.pinterest.com/pin/906279124990299039/)">
+<img src ="https://in.pinterest.com/pin/906279124990299039/">
 
 - 🌱 I’m currently learning **Python, NodeJS, React**
 
